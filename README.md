@@ -10,6 +10,7 @@ ___
 *기울기1*
 _기울기2_
 
+![사진1](https://user-images.githubusercontent.com/97482492/230516833-25132ec8-279d-4fd0-a6b1-affdd44f2271.PNG)
 
 
 
